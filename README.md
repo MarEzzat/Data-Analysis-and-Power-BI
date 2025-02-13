@@ -8,6 +8,9 @@ This project focuses on analyzing and visualizing a **Supermarket Sales Dataset*
 - Generate insightful visualizations with **Matplotlib, Seaborn, and Power BI**.
 - Identify trends, patterns, and key business insights.
 
+## Dataset 
+   https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+
 ## Tools & Libraries
 ### Python Libraries:
 - **Pandas**: Data manipulation
